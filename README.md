@@ -1,7 +1,5 @@
 # EmpathyBot
 
-![Project Screenshot](assets/project-image.png)
-
 > "Empathy is what truly matters; it doesn’t matter how advanced the technology is without understanding human emotions."
 
 ## 📌 Overview
@@ -109,6 +107,9 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## 📜 License
 This project is licensed under the MIT License. See `LICENSE` for details.
+
+---
+![Project Screenshot](assets/Screenshot (237).png)
 
 ---
 💡 *EmpathyBot is more than just a chatbot; it's a step toward making technology truly understand human emotions.*
