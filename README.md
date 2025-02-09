@@ -109,7 +109,11 @@ Contributions are welcome! Follow these steps to contribute:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
-![Project Screenshot](assets/Screenshot (237).png)
+![Project Screenshot](assets/1.png)
+![Project Screenshot](assets/2.png)
+![Project Screenshot](assets/3.png)
+![Project Screenshot](assets/4.png)
+![Project Screenshot](assets/5.png)
 
 ---
 💡 *EmpathyBot is more than just a chatbot; it's a step toward making technology truly understand human emotions.*
